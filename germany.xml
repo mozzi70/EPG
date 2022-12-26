@@ -1,0 +1,1035 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="1-2-3.tv HD">
+    <display-name lang="de">1-2-3.tv HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="13th Street">
+    <display-name lang="de">13th Street</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="13th Street HD">
+    <display-name lang="de">13th Street HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="13TH STREET HD">
+    <display-name lang="de">13TH STREET HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="3sat HD">
+    <display-name lang="de">3sat HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="a.tv">
+    <display-name lang="de">a.tv</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="allgäu.tv">
+    <display-name lang="de">allgäu.tv</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Anixe HD">
+    <display-name lang="de">Anixe HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="ARD-alpha">
+    <display-name lang="de">ARD-alpha</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="ARTE HD">
+    <display-name lang="de">ARTE HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="AstroTV">
+    <display-name lang="de">AstroTV</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="ATV HD">
+    <display-name lang="de">ATV HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="ATV2">
+    <display-name lang="de">ATV2</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="de">AXN HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Bayerisches Fernsehen HD">
+    <display-name lang="de">Bayerisches Fernsehen HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Beate-Uhse.TV HD">
+    <display-name lang="de">Beate-Uhse.TV HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Bibel TV HD">
+    <display-name lang="de">Bibel TV HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Bloomberg TV Europe">
+    <display-name lang="de">Bloomberg TV Europe</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Blue Movie 1">
+    <display-name lang="de">Blue Movie 1</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Blue Movie 2">
+    <display-name lang="de">Blue Movie 2</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Blue Movie 3">
+    <display-name lang="de">Blue Movie 3</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Channel 21">
+    <display-name lang="de">Channel 21</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Comedy Central HD">
+    <display-name lang="de">Comedy Central HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Das Erste HD">
+    <display-name lang="de">Das Erste HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="DELUXE MUSIC HD">
+    <display-name lang="de">DELUXE MUSIC HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Deutsches Musik Fernsehen">
+    <display-name lang="de">Deutsches Musik Fernsehen</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="DIE NEUE ZEIT TV">
+    <display-name lang="de">DIE NEUE ZEIT TV</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="de">Discovery Channel</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Discovery Channel HD">
+    <display-name lang="de">Discovery Channel HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Discovery HD">
+    <display-name lang="de">Discovery HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Disney Channel HD">
+    <display-name lang="de">Disney Channel HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Disney Cinemagic">
+    <display-name lang="de">Disney Cinemagic</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="de">Disney Junior</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="DMAX HD">
+    <display-name lang="de">DMAX HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="DONAU TV">
+    <display-name lang="de">DONAU TV</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="E! Entertainm. HD">
+    <display-name lang="de">E! Entertainm. HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="E! ENTERTAINMENT HD">
+    <display-name lang="de">E! ENTERTAINMENT HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="euronews">
+    <display-name lang="de">euronews</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Eurosport 1 HD">
+    <display-name lang="de">Eurosport 1 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Eurosport HD">
+    <display-name lang="de">Eurosport HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Eurosport360HD 1">
+    <display-name lang="de">Eurosport360HD 1</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Eurosport360HD 2">
+    <display-name lang="de">Eurosport360HD 2</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Eurosport360HD 3">
+    <display-name lang="de">Eurosport360HD 3</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Eurosport360HD 4">
+    <display-name lang="de">Eurosport360HD 4</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Eurosport360HD 5">
+    <display-name lang="de">Eurosport360HD 5</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Eurosport360HD 6">
+    <display-name lang="de">Eurosport360HD 6</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Eurosport360HD 7">
+    <display-name lang="de">Eurosport360HD 7</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Eurosport360HD 8">
+    <display-name lang="de">Eurosport360HD 8</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Eurosport360HD 9">
+    <display-name lang="de">Eurosport360HD 9</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="EWTN">
+    <display-name lang="de">EWTN</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Fox Serie">
+    <display-name lang="de">Fox Serie</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Franken Fernsehen">
+    <display-name lang="de">Franken Fernsehen</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Goldstar TV">
+    <display-name lang="de">Goldstar TV</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="gotv">
+    <display-name lang="de">gotv</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="History HD">
+    <display-name lang="de">History HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="HISTORY HD">
+    <display-name lang="de">HISTORY HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="HOPE Channel">
+    <display-name lang="de">HOPE Channel</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="hr-Fernsehen HD">
+    <display-name lang="de">hr-Fernsehen HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="HSE24 Extra HD">
+    <display-name lang="de">HSE24 Extra HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="HSE24 HD">
+    <display-name lang="de">HSE24 HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="INsight TV HD">
+    <display-name lang="de">INsight TV HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="intv">
+    <display-name lang="de">intv</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="JML">
+    <display-name lang="de">JML</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Juwelo HD">
+    <display-name lang="de">Juwelo HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="kabel eins CLASSICS">
+    <display-name lang="de">kabel eins CLASSICS</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Kabel Eins Doku HD">
+    <display-name lang="de">Kabel Eins Doku HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="kabel eins HD">
+    <display-name lang="de">kabel eins HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="KiKA HD">
+    <display-name lang="de">KiKA HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="K-TV">
+    <display-name lang="de">K-TV</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="L-TV">
+    <display-name lang="de">L-TV</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="MDR Fernsehen HD">
+    <display-name lang="de">MDR Fernsehen HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="MTV Dance">
+    <display-name lang="de">MTV Dance</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="MTV HD">
+    <display-name lang="de">MTV HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="MTV Hits">
+    <display-name lang="de">MTV Hits</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="MTV Live HD">
+    <display-name lang="de">MTV Live HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="MTV Music 24">
+    <display-name lang="de">MTV Music 24</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="MTV Rocks">
+    <display-name lang="de">MTV Rocks</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Mühlviertel TV">
+    <display-name lang="de">Mühlviertel TV</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="münchen.tv">
+    <display-name lang="de">münchen.tv</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="N24 Doku">
+    <display-name lang="de">N24 Doku</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Nat Geo HD">
+    <display-name lang="de">Nat Geo HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Nat Geo Wild HD">
+    <display-name lang="de">Nat Geo Wild HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="NatGeo HD">
+    <display-name lang="de">NatGeo HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="NatGeo Wild">
+    <display-name lang="de">NatGeo Wild</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="NatGeo Wild HD">
+    <display-name lang="de">NatGeo Wild HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="de">National Geographic</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="NDR Fernsehen HD">
+    <display-name lang="de">NDR Fernsehen HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="NITRO HD">
+    <display-name lang="de">NITRO HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="NL 1">
+    <display-name lang="de">NL 1</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="NL 2">
+    <display-name lang="de">NL 2</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="NL 3">
+    <display-name lang="de">NL 3</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="n-tv HD">
+    <display-name lang="de">n-tv HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="ONE HD">
+    <display-name lang="de">ONE HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="ORF eins HD">
+    <display-name lang="de">ORF eins HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="ORF III HD">
+    <display-name lang="de">ORF III HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="ORF Sport + HD">
+    <display-name lang="de">ORF Sport + HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="ORF2">
+    <display-name lang="de">ORF2</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Parlamentsfernsehen des Deutschen Bundestages">
+    <display-name lang="de">Parlamentsfernsehen des Deutschen Bundestages</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Passion">
+    <display-name lang="de">Passion</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Pearl.tv HD">
+    <display-name lang="de">Pearl.tv HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="PHOENIX HD">
+    <display-name lang="de">PHOENIX HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="PLANET HD">
+    <display-name lang="de">PLANET HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="ProSieben Fun HD">
+    <display-name lang="de">ProSieben Fun HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="ProSieben HD">
+    <display-name lang="de">ProSieben HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="ProSieben MAXX HD">
+    <display-name lang="de">ProSieben MAXX HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="PULS 4 HD">
+    <display-name lang="de">PULS 4 HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="QVC HD">
+    <display-name lang="de">QVC HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="QVC Plus HD">
+    <display-name lang="de">QVC Plus HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="rbb Fernsehen HD">
+    <display-name lang="de">rbb Fernsehen HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Regio TV">
+    <display-name lang="de">Regio TV</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="RFO">
+    <display-name lang="de">RFO</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Rhein-Main-TV">
+    <display-name lang="de">Rhein-Main-TV</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Rhein-Neckar Fernsehen">
+    <display-name lang="de">Rhein-Neckar Fernsehen</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="RiC">
+    <display-name lang="de">RiC</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="RTL Crime HD">
+    <display-name lang="de">RTL Crime HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="RTL HD">
+    <display-name lang="de">RTL HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="RTL II HD">
+    <display-name lang="de">RTL II HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="RTL Living">
+    <display-name lang="de">RTL Living</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="RTLplus">
+    <display-name lang="de">RTLplus</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="SAT.1 emotions">
+    <display-name lang="de">SAT.1 emotions</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="SAT.1 Gold HD">
+    <display-name lang="de">SAT.1 Gold HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="SAT.1 HD">
+    <display-name lang="de">SAT.1 HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Servus TV HD Österreich">
+    <display-name lang="de">Servus TV HD Österreich</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="ServusTV HD Deutschland">
+    <display-name lang="de">ServusTV HD Deutschland</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Silverline">
+    <display-name lang="de">Silverline</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="sixx HD">
+    <display-name lang="de">sixx HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Sky 1">
+    <display-name lang="de">Sky 1</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Action HD">
+    <display-name lang="de">Sky Action HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Sky Arts HD">
+    <display-name lang="de">Sky Arts HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Atlantic">
+    <display-name lang="de">Sky Atlantic</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Bundesliga HD 1">
+    <display-name lang="de">Sky Bundesliga HD 1</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Sky Bundesliga HD 2">
+    <display-name lang="de">Sky Bundesliga HD 2</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Sky Bundesliga HD 3">
+    <display-name lang="de">Sky Bundesliga HD 3</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Sky Bundesliga HD 4">
+    <display-name lang="de">Sky Bundesliga HD 4</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Sky Cinema">
+    <display-name lang="de">Sky Cinema</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Cinema +1">
+    <display-name lang="de">Sky Cinema +1</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Cinema +24">
+    <display-name lang="de">Sky Cinema +24</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Cinema +24 HD">
+    <display-name lang="de">Sky Cinema +24 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Cinema Action">
+    <display-name lang="de">Sky Cinema Action</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Cinema Action HD">
+    <display-name lang="de">Sky Cinema Action HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Cinema Awards">
+    <display-name lang="de">Sky Cinema Awards</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Cinema Classics">
+    <display-name lang="de">Sky Cinema Classics</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Cinema Comedy">
+    <display-name lang="de">Sky Cinema Comedy</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Cinema Emotion">
+    <display-name lang="de">Sky Cinema Emotion</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Cinema Family">
+    <display-name lang="de">Sky Cinema Family</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Cinema Hits">
+    <display-name lang="de">Sky Cinema Hits</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Cinema Hits HD">
+    <display-name lang="de">Sky Cinema Hits HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Cinema In Love">
+    <display-name lang="de">Sky Cinema In Love</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Cinema Nostalgie">
+    <display-name lang="de">Sky Cinema Nostalgie</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Comedy">
+    <display-name lang="de">Sky Comedy</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Sky Comedy HD">
+    <display-name lang="de">Sky Comedy HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Emotion">
+    <display-name lang="de">Sky Emotion</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Sky Hits HD">
+    <display-name lang="de">Sky Hits HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Sky Nostalgie">
+    <display-name lang="de">Sky Nostalgie</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Sky Select 1">
+    <display-name lang="de">Sky Select 1</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Select 2">
+    <display-name lang="de">Sky Select 2</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Select 3">
+    <display-name lang="de">Sky Select 3</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Select 4">
+    <display-name lang="de">Sky Select 4</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Select 5">
+    <display-name lang="de">Sky Select 5</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Select 6">
+    <display-name lang="de">Sky Select 6</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Select 7">
+    <display-name lang="de">Sky Select 7</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Select 8">
+    <display-name lang="de">Sky Select 8</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Select 9">
+    <display-name lang="de">Sky Select 9</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Select Event A">
+    <display-name lang="de">Sky Select Event A</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Select Event B">
+    <display-name lang="de">Sky Select Event B</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Serien &amp; Shows HD">
+    <display-name lang="de">Sky Serien &amp; Shows HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport  1">
+    <display-name lang="de">Sky Sport  1</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport  10">
+    <display-name lang="de">Sky Sport  10</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport  11">
+    <display-name lang="de">Sky Sport  11</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport  2">
+    <display-name lang="de">Sky Sport  2</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport  3">
+    <display-name lang="de">Sky Sport  3</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport  4">
+    <display-name lang="de">Sky Sport  4</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport  5">
+    <display-name lang="de">Sky Sport  5</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport  6">
+    <display-name lang="de">Sky Sport  6</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport  7">
+    <display-name lang="de">Sky Sport  7</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport  8">
+    <display-name lang="de">Sky Sport  8</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport  9">
+    <display-name lang="de">Sky Sport  9</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport 1 HD">
+    <display-name lang="de">Sky Sport 1 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport 10 HD">
+    <display-name lang="de">Sky Sport 10 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport 11 HD">
+    <display-name lang="de">Sky Sport 11 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport 2 HD">
+    <display-name lang="de">Sky Sport 2 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport 3 HD">
+    <display-name lang="de">Sky Sport 3 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport 4 HD">
+    <display-name lang="de">Sky Sport 4 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport 5 HD">
+    <display-name lang="de">Sky Sport 5 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport 6 HD">
+    <display-name lang="de">Sky Sport 6 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport 7 HD">
+    <display-name lang="de">Sky Sport 7 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport 8 HD">
+    <display-name lang="de">Sky Sport 8 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport 9 HD">
+    <display-name lang="de">Sky Sport 9 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport Austria">
+    <display-name lang="de">Sky Sport Austria</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 1">
+    <display-name lang="de">Sky Sport Bundesliga 1</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 1 HD">
+    <display-name lang="de">Sky Sport Bundesliga 1 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 10">
+    <display-name lang="de">Sky Sport Bundesliga 10</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 10 HD">
+    <display-name lang="de">Sky Sport Bundesliga 10 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 2">
+    <display-name lang="de">Sky Sport Bundesliga 2</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 2 HD">
+    <display-name lang="de">Sky Sport Bundesliga 2 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 3">
+    <display-name lang="de">Sky Sport Bundesliga 3</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 3 HD">
+    <display-name lang="de">Sky Sport Bundesliga 3 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 4">
+    <display-name lang="de">Sky Sport Bundesliga 4</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 4 HD">
+    <display-name lang="de">Sky Sport Bundesliga 4 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 5">
+    <display-name lang="de">Sky Sport Bundesliga 5</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 5 HD">
+    <display-name lang="de">Sky Sport Bundesliga 5 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 6">
+    <display-name lang="de">Sky Sport Bundesliga 6</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 6 HD">
+    <display-name lang="de">Sky Sport Bundesliga 6 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 7">
+    <display-name lang="de">Sky Sport Bundesliga 7</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 7 HD">
+    <display-name lang="de">Sky Sport Bundesliga 7 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 8">
+    <display-name lang="de">Sky Sport Bundesliga 8</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 8 HD">
+    <display-name lang="de">Sky Sport Bundesliga 8 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 9">
+    <display-name lang="de">Sky Sport Bundesliga 9</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 9 HD">
+    <display-name lang="de">Sky Sport Bundesliga 9 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga UHD">
+    <display-name lang="de">Sky Sport Bundesliga UHD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport F1 HD">
+    <display-name lang="de">Sky Sport F1 HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport HD 1">
+    <display-name lang="de">Sky Sport HD 1</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Sky Sport HD 2">
+    <display-name lang="de">Sky Sport HD 2</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Sky Sport News">
+    <display-name lang="de">Sky Sport News</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Sky Sport UHD">
+    <display-name lang="de">Sky Sport UHD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="sonnenklar.TV HD">
+    <display-name lang="de">sonnenklar.TV HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Spiegel Geschichte">
+    <display-name lang="de">Spiegel Geschichte</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Spiegel TV Wissen">
+    <display-name lang="de">Spiegel TV Wissen</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Spiegel TV Wissen HD">
+    <display-name lang="de">Spiegel TV Wissen HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Sport1 HD">
+    <display-name lang="de">Sport1 HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="sport1 US HD">
+    <display-name lang="de">sport1 US HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="sport1+ HD">
+    <display-name lang="de">sport1+ HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="sportdigital">
+    <display-name lang="de">sportdigital</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="sportdigital HD">
+    <display-name lang="de">sportdigital HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="SR Fernsehen HD">
+    <display-name lang="de">SR Fernsehen HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="SRF 1 HD">
+    <display-name lang="de">SRF 1 HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="SRF zwei HD">
+    <display-name lang="de">SRF zwei HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="SUPER RTL HD">
+    <display-name lang="de">SUPER RTL HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="SWR Fernsehen HD">
+    <display-name lang="de">SWR Fernsehen HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="SYFY">
+    <display-name lang="de">SYFY</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Syfy HD">
+    <display-name lang="de">Syfy HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="SYFY HD">
+    <display-name lang="de">SYFY HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="tagesschau24 HD">
+    <display-name lang="de">tagesschau24 HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="TELE 5 HD">
+    <display-name lang="de">TELE 5 HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="TLC HD">
+    <display-name lang="de">TLC HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="TNT Comedy">
+    <display-name lang="de">TNT Comedy</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="TNT Film">
+    <display-name lang="de">TNT Film</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="TNT Film HD">
+    <display-name lang="de">TNT Film HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="TNT Serie">
+    <display-name lang="de">TNT Serie</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="ToggoPlus">
+    <display-name lang="de">ToggoPlus</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Travelxp 4K">
+    <display-name lang="de">Travelxp 4K</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="TV Mittelrhein">
+    <display-name lang="de">TV Mittelrhein</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="TV Oberfranken">
+    <display-name lang="de">TV Oberfranken</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="TVA Ostbayern">
+    <display-name lang="de">TVA Ostbayern</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="UHD1">
+    <display-name lang="de">UHD1</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Universal Channel HD">
+    <display-name lang="de">Universal Channel HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Universal TV">
+    <display-name lang="de">Universal TV</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="Universal TV HD">
+    <display-name lang="de">Universal TV HD</display-name>
+    <url>http://www.sky.de</url>
+  </channel>
+  <channel id="VH1 Classic">
+    <display-name lang="de">VH1 Classic</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="VIVA">
+    <display-name lang="de">VIVA</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="VOX HD">
+    <display-name lang="de">VOX HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="WDR Fernsehen HD">
+    <display-name lang="de">WDR Fernsehen HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Welt der Wunder TV">
+    <display-name lang="de">Welt der Wunder TV</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Welt HD">
+    <display-name lang="de">Welt HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="ZDF HD">
+    <display-name lang="de">ZDF HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="ZDFinfo HD">
+    <display-name lang="de">ZDFinfo HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="ZDFneo HD">
+    <display-name lang="de">ZDFneo HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+  <channel id="Zee.One HD">
+    <display-name lang="de">Zee.One HD</display-name>
+    <url>http://www.hd-plus.de</url>
+  </channel>
+</tv>
